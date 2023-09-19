@@ -1,0 +1,44 @@
+body  {                            
+    Background: #05fcc600
+  }
+  #banner {
+       width: 100%;
+  }
+
+  h1 {
+      text-align: center    
+  }
+
+  p {
+      text-align: center
+
+  }
+
+  #missão {
+      font-size: 20px
+  }
+
+  em strong {
+      color: #ff0000;
+  }
+
+ .itens {
+    font-style: italic;
+ }
+
+ .beneficios {
+    background-color: #FFFFFF;
+    padding: 20px;
+ }
+
+ ul {
+     Display: inline-blocks;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+ }
+
+ .Imagebeneficios {
+     width: 50%;
+
+ }
